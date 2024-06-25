@@ -1,6 +1,7 @@
 LeetClone is a web-based platform that replicates the functionality of LeetCode, providing a wide range of coding problems and solutions to help users prepare for technical interviews. This project is designed for developers to practice their coding skills, share solutions, and discuss problem-solving strategies.
 
-Features
+Features---
+
 Problem Solving: Access a collection of coding problems of varying difficulty levels.
 
 Code Editor: Integrated code editor with syntax highlighting and auto-completion.
